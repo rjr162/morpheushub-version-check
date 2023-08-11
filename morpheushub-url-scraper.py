@@ -1,4 +1,3 @@
-  GNU nano 6.2                                                                                      site-scraper.py                                                                                                
 #!/usr/bin/python3
 
 from bs4 import BeautifulSoup
